@@ -3,11 +3,11 @@
 applet que permita generar una factura de compra para tres productos en el cual el usuario debe 
 ingresar la siguiente información: 
 
- 
-A. Nombre completo del cliente. 
-           B. Nombre de cada producto. 
-           C. Valor unitario de cada producto. 
-            D. Cantidad por producto. 
+
+1.Nombre completo del cliente. 
+2.Nombre de cada producto. 
+3.Valor unitario de cada producto. 
+4.Cantidad por producto. 
 
  
 
