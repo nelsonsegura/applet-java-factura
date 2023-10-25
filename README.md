@@ -5,9 +5,9 @@ ingresar la siguiente información:
 
  
 A. Nombre completo del cliente. 
-B. Nombre de cada producto. 
-C. Valor unitario de cada producto. 
-D. Cantidad por producto. 
+           B. Nombre de cada producto. 
+           C. Valor unitario de cada producto. 
+            D. Cantidad por producto. 
 
  
 
